@@ -89,14 +89,6 @@ streamlit run app.py
 * Significant performance gap exists between top and mid-tier players
 * Certain regions dominate global rankings
 
-
-##  Screenshots
-
-<img width="1655" height="950" alt="Dashboard Image" src="https://github.com/user-attachments/assets/00c0f956-86ea-4be3-8ed8-acbc536f93e1" />
-
-
----
-
 ## 👤 Author
 
 **Shreya Thaware**
